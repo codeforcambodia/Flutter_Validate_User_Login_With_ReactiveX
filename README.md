@@ -1,8 +1,8 @@
 To run above repository
 
-Clone the project https://github.com/codeforcambodia/Flutter-Create-Project-On-Ubuntu.git.
-And run flutter packages get on terminal inside your project folder.
-Then run flutter run done.
+* Clone the project https://github.com/codeforcambodia/Flutter-Create-Project-On-Ubuntu.git.
+* And run `flutter packages get`on terminal inside your project folder after clone.
+* Then run `flutter run` done.
 
 # Validate user login with ReactiveX Dart(Rxdart).
 
